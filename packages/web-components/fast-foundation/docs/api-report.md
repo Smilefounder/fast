@@ -1974,7 +1974,6 @@ export class Search extends FormAssociatedSearch {
     defaultSlottedNodes: Node[];
     // @internal
     handleChange(): void;
-    // (undocumented)
     handleClearInput(): void;
     // @internal
     handleTextInput(): void;
