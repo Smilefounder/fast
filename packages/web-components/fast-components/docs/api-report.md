@@ -1029,9 +1029,7 @@ export interface Recipe<T> {
 export class Search extends Search_2 {
     // @public
     appearance: SearchAppearance;
-    // (undocumented)
-    connectedCallback(): void;
-}
+    }
 
 // @public
 export type SearchAppearance = "filled" | "outline";
